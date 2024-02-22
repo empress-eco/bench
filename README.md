@@ -1,15 +1,8 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" height="128">
+
+  EMPRESS Bench is a powerful command-line utility built to simplify the installation, update, and management of multiple application sites on [*nix systems](https://en.wikipedia.org/wiki/Unix-like). It's an ideal tool for developers and system administrators seeking to streamline their workflow in both development and production environments.
 </div>
-
-EMPRESS Bench is a powerful command-line utility built to simplify the installation, update, and management of multiple application sites on [*nix systems](https://en.wikipedia.org/wiki/Unix-like). It's an ideal tool for developers and system administrators seeking to streamline their workflow in both development and production environments.
-
-[![Python version](https://img.shields.io/badge/python-%3E=_3.7-green.svg)](https://www.python.org/downloads/)
-[![CI Status](https://app.travis-ci.com/github/Empress/bench.svg?branch=develop)](https://app.travis-ci.com/github/Empress/bench)
-[![PyPI Version](https://badge.fury.io/py/Empress-bench.svg)](https://pypi.org/project/Empress-bench)
-[![Platform Compatibility](https://img.shields.io/badge/platform-linux%20%7C%20osx-blue)](#)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEmpress%2Fbench.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEmpress%2Fbench?ref=badge_shield)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#LICENSE)
 
 **Project Links**:
 - [Report a Bug](https://github.com/empress-eco/bench/issues)
